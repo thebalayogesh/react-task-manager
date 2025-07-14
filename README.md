@@ -1,5 +1,7 @@
 # 📝 Task Manager
 
+🔗 **Live Demo:** [yogesh.is-cool.dev/react-task-manager](https://yogesh.is-cool.dev/react-task-manager/)
+
 ## A Minimalistic Task Manager built using "**_React_** " and "**_Tailwind CSS_** ".
 
 > ### This project is made as part of an intern-level React assignment for **_Verlynk_**.
